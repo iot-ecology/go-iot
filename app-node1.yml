@@ -1,0 +1,11 @@
+node_info:
+  host: 127.0.0.1
+  port: 9999
+  name: m1
+  type: mqtt
+  size: 1000
+redis_config:
+  host: 127.0.0.1
+  port: 6379
+  db: 0
+  password: eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81
